@@ -1,7 +1,3 @@
-Certainly! Here's a detailed `README.md` that describes your project, its structure, and usage. This `README.md` covers all the code files you mentioned, their purpose, and how to use them.
-
----
-
 # Multi-Agent Reinforcement Learning (MARL) for Capture The Flag (CTF)
 
 This project implements **Multi-Agent Reinforcement Learning (MARL)** algorithms for the **Capture the Flag (CTF)** game environment. The project evaluates different approaches like **Independent Q-Learning (IQL)**, **Deep Q-Network (DQN)**, and **Multi-Agent Proximal Policy Optimization (MAPPO)** for cooperative and competitive agent interactions in a grid-world environment.
