@@ -161,9 +161,16 @@ The metrics are saved in CSV format and visualized using **matplotlib**.
 - Win rates for both teams
 - Average scores for each team over multiple test episodes
 - Visualizations of agent movements and scores during testing
+
+## Orignal Environment
 ![Original Environment](assets/display_env.png)
+## Changed Environment
 ![Changed Environment](assets/changed_env.png)
+## Train Results For IQL
 ![Train Results For IQL](assets/final_rewards.png)
+## Train Results For MAPPO
 ![Train Results For MAPPO](assets/final_train_rewards_mappo.png)
+## Test Results IQL
 ![Test Results For IQL](assets/test_iql_final.png)
+## Test Results MAPPO
 ![Test Results For MAPPO](assets/test_mappo_final.png)
