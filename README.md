@@ -27,8 +27,8 @@ This repository aims to solve the **Capture The Flag** problem using **Multi-Age
 
 ## Project Structure
 
-- **`env.py`**: The original environment code for the CTF problem where agents take actions and the game progresses.
-- **`env2.py`**: The changed environment with additional obstacles and variations in agent movements and flag interactions.
+- **`env.py`**: The changed environment code for the CTF problem where agents take actions and the game progresses.
+- **`env2.py`**: The original environment with additional obstacles and variations in agent movements and flag interactions.
 - **`train_iql.py`**: Code for training the **Independent Q-Learning (IQL)** agents, where each agent independently learns and updates its Q-table.
 - **`train_dqn.py`**: Code for training the **Deep Q-Network (DQN)**, a deep learning model for value-based reinforcement learning.
 - **`train_mappo.py`**: Code for training **Multi-Agent Proximal Policy Optimization (MAPPO)** agents, which is a state-of-the-art policy gradient method for MARL.
@@ -162,18 +162,4 @@ The metrics are saved in CSV format and visualized using **matplotlib**.
 - Average scores for each team over multiple test episodes
 - Visualizations of agent movements and scores during testing
 
-## Contributing
 
-Feel free to fork this repository and contribute. If you want to add a feature or fix an issue, open a pull request, and I will review it.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### How to Download the README
-
-You can copy the content provided above and save it as `README.md` file in your project directory.
-
-Let me know if you need further changes or clarifications!
