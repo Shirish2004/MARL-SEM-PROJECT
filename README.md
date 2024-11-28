@@ -164,6 +164,6 @@ The metrics are saved in CSV format and visualized using **matplotlib**.
 ![Original Environment](assets/display_env.png)
 ![Changed Environment](assets/changed_env.png)
 ![Train Results For IQL](assets/final_rewards.png)
-![Train Results For MAPPO](assets/final_rewards_mappo.png)
+![Train Results For MAPPO](assets/final_train_rewards_mappo.png)
 ![Test Results For IQL](assets/test_iql_final.png)
 ![Test Results For MAPPO](assets/test_mappo_final.png)
